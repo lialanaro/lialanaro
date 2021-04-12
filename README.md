@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey Listen!
 
+<img src="https://komarev.com/ghpvc/?username=adrianoleitedasilva&label=Profile%20views&color=0e75b6&style=social" alt="Nathalia Lanaro" />
+
+
+Meu nome é Nathalia, mas pode me chamar de Lia, eu tenho 25 anos.
+:green_book: Gosto muito de ler desde livros de romance água com açucar até livros de terror, meu livro favorito é Objetos Cortantes - Gillian Flyn, Aristóteles e Dante descobrem o segredos do universo - Benjamin Aliere Sáenz.
+:video_game: Gosto de jogar video game nas horas vagas, meus jogos favoritos são The Legend of Zelda e Life is Strange
+ :mortar_board:Eu sou formada em Análise e desenvolvimento de sistemas, programadora Java trainee.
 <!--
 **lialanaro/lialanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
