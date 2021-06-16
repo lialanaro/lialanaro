@@ -11,7 +11,7 @@
 
 :video_game: Gosto de jogar video game nas horas vagas, meus jogos favoritos são **The Legend of Zelda**,     **Life is Strange** e  costumo jogar *casualmente* **World of Warcraft** e **League of Legends**.
 
-:mortar_board: Eu sou formada em   **Análise e desenvolvimento de sistemas**, atualmente trabalho como programadora **Java trainee**. Gosto bastante de novos desafios.
+:mortar_board: Eu sou formada em   **Análise e Desenvolvimento de Sistemas**, atualmente trabalho como programadora **Java trainee**. Gosto bastante de novos desafios.
 
 :e-mail: nathalia-lanaro@hotmail.com
 
